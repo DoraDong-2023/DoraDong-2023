@@ -8,7 +8,9 @@
   </tr>
 </table>
 
-  
+[![My Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=DoraDong&layout=full&range=last_7_days)](https://wakatime.com/@DoraDong)
+
+
 <!-- <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DoraDong-2023&show_icons=true&theme=merko"> </div>
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoraDong-2023&layout=donut"> </div>
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=DoraDong-2023&theme=rogue"> </div>
