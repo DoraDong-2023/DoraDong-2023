@@ -4,11 +4,15 @@
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=DoraDong-2023&show_icons=true&theme=merko" height="300"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoraDong-2023&layout=donut" height="300"/></td>
   </tr>
 </table>
 
-[![My Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=DoraDong&layout=full&range=last_7_days)](https://wakatime.com/@DoraDong)
+<div align="center">
+  <a href="https://wakatime.com/@DoraDong">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DoraDong&layout=compact&range=last_7_days" />
+  </a>
+</div>
+
 
 
 <!-- <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DoraDong-2023&show_icons=true&theme=merko"> </div>
