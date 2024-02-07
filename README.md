@@ -7,11 +7,11 @@
   </tr>
 </table>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://wakatime.com/@DoraDong">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DoraDong&layout=compact&range=last_7_days" />
   </a>
-</div>
+</div> </div>-->
 
 
 
