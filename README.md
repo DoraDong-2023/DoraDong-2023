@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🧑 I’m currently learning the research on developing interpretable machine learning models to make sense of complex biological data...
-- 🎓 I’m currently a Ph.D. student at the Cheriton School of Computer Science at University of Waterloo.
+- 💻 I’m currently exploring research on data lakes.
+- 🎓 I’m a Ph.D. student at the Data System Group, Cheriton School of Computer Science, University of Waterloo.
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/DoraDong-2023/DoraDong-2023/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/DoraDong-2023/DoraDong-2023/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
